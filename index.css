@@ -1,0 +1,59 @@
+header {
+	background: #000000;
+	height: 280px;
+	padding: 0 20px;
+}
+
+
+img {
+	max-width:400px;
+    max-height:220px;
+    width: auto;
+    height: auto;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    margin: 28px 100px 100px 150px;
+    border-color: white;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+div a {
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+header h2 {
+	font-size: 18px;
+}
+
+.nome {
+	margin: 0 0 0 15px;
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-family: Georgia, serif;
+	font-size: 35px;
+	color: white;
+	margin: 15px 470px 15px 15px;
+	box-sizing: border-box;
+	border: 4px double #000000;
+	border-radius: 15px;
+	border-color: white;
+
+}
+
+.contato {
+	margin: -320px 15px 15px 950px;
+	font-family: Times New Roman, serif;
+	font-weight: bold;
+	font-size: 22px;
+	color: white;
+}
+
